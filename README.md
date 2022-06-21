@@ -8,7 +8,7 @@
 
 <br />
 
-![image](https://user-images.githubusercontent.com/51070104/174722794-d1d17b53-57f2-4e97-bef8-461a034223b4.png)
+![Nodejs API Server - Free sample provided by AppSeed.](https://user-images.githubusercontent.com/51070104/174722794-d1d17b53-57f2-4e97-bef8-461a034223b4.png)
 
 <br />
 
